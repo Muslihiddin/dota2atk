@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <h1 class="text-center text-primary font-mont-alt">Wello</h1>
   </div>
 </template>
